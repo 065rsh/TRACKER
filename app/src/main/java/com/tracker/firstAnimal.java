@@ -19,7 +19,7 @@ import com.google.android.gms.maps.model.MarkerOptions;
 
 public class firstAnimal extends AppCompatActivity implements OnMapReadyCallback {
 
-    public static double latitude = 30.768174,longitude = 76.576349;
+    public static double latitude = 13.31461,longitude = 77.12327;
     public static TextView firstAnimalTemp_TV;
 
     @Override
